@@ -1,0 +1,1 @@
+This is a issue tracker for virtualchest plugin. You can easily create issues from top of this page
